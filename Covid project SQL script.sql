@@ -1,6 +1,6 @@
 /*
 <COVID-19 Analysis SQL Project>
-Before starting in this SCL script, I did some basic preprocessing of the dataset before uploading them into my own SQL database using the upload wizard.
+Before starting in this SQL script, I did some basic preprocessing of the dataset before uploading them into my own SQL database using the upload wizard.
 */
 
 -- DATA CLEANNING --
